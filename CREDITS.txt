@@ -1,0 +1,181 @@
+================================================================================
+                           SNAKE GAME ASSET CREDITS
+================================================================================
+
+This document provides complete attribution for all third-party assets used in
+the Snake Game project. All assets are properly licensed for commercial use,
+and this documentation ensures compliance with all license requirements.
+
+================================================================================
+                              SPRITE ASSETS
+================================================================================
+
+Sprite - Snake Head
+Author: Kenney (Kenney.nl)
+Source: Kenney.nl Pixel Platformer Pack
+       https://kenney.nl/assets/pixel-platformer
+License: CC0 1.0 Universal (Public Domain)
+License URL: https://creativecommons.org/publicdomain/zero/1.0/
+Attribution Required: No (but recommended)
+Commercial Use: Allowed
+Location: assets/sprites/snake_head.png
+
+Sprite - Snake Body
+Author: Kenney (Kenney.nl)
+Source: Kenney.nl Pixel Platformer Pack
+       https://kenney.nl/assets/pixel-platformer
+License: CC0 1.0 Universal (Public Domain)
+License URL: https://creativecommons.org/publicdomain/zero/1.0/
+Attribution Required: No (but recommended)
+Commercial Use: Allowed
+Location: assets/sprites/snake_body.png
+
+Sprite - Food
+Author: Kenney (Kenney.nl)
+Source: Kenney.nl Pixel Platformer Pack / Food Icons
+       https://kenney.nl/assets/pixel-platformer
+       https://kenney.nl/assets/food-icons
+License: CC0 1.0 Universal (Public Domain)
+License URL: https://creativecommons.org/publicdomain/zero/1.0/
+Attribution Required: No (but recommended)
+Commercial Use: Allowed
+Location: assets/sprites/food.png
+
+================================================================================
+                              ICON ASSETS
+================================================================================
+
+Icon - Game Application Icon
+Author: Kenney (Kenney.nl)
+Source: Kenney.nl Pixel Platformer Pack
+       https://kenney.nl/assets/pixel-platformer
+License: CC0 1.0 Universal (Public Domain)
+License URL: https://creativecommons.org/publicdomain/zero/1.0/
+Attribution Required: No (but recommended)
+Commercial Use: Allowed
+Location: assets/icons/game_icon.png
+
+================================================================================
+                               FONT ASSETS
+================================================================================
+
+Font - Retro Game Font (Dogica)
+Author: PixelBuddha
+Source: PixelBuddha Fonts Collection
+       https://pixelbuddha.net/fonts/7620-dogica-1980s-game-font
+License: CC0 1.0 Universal (Public Domain)
+License URL: https://creativecommons.org/publicdomain/zero/1.0/
+Attribution Required: No (but recommended)
+Commercial Use: Allowed
+Location: assets/fonts/retro_font.ttf
+
+Font Name Used: Dogica Regular
+Font Style: Retro pixel-style monospace font suitable for 8-bit game aesthetics
+
+================================================================================
+                           AUDIO ASSETS
+================================================================================
+
+No audio assets are included in the current release of Snake Game. The game
+architecture supports audio functionality, and sound effects can be added by
+including appropriately licensed audio files in the assets/audio/ directory.
+
+================================================================================
+                        ASSET PACK INFORMATION
+================================================================================
+
+The sprite assets in this project are derived from the following asset packs:
+
+Kenney.nl Pixel Platformer
+- Source: https://kenney.nl/assets/pixel-platformer
+- Contents: Platformer tileset with 16x16 and 32x32 pixel sprites including
+  characters, tiles, and items suitable for Snake game adaptation
+- License: CC0 1.0 Universal
+
+Kenney.nl Food Icons
+- Source: https://kenney.nl/assets/food-icons
+- Contents: Collection of food item sprites in pixel art style
+- License: CC0 1.0 Universal
+
+================================================================================
+                          LICENSE INFORMATION
+================================================================================
+
+All third-party assets used in this project are licensed under CC0 1.0
+Universal (Creative Commons Zero 1.0 Public Domain Dedication). This license
+grants the following permissions:
+
+- Copy, distribute, and use the work
+- Make derivative works
+- Use the work for commercial purposes
+- Sublicense to others
+
+WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
+FITNESS FOR A PARTICULAR PURPOSE.
+
+While attribution is not required by the license, we gratefully acknowledge
+the following as a gesture of appreciation for the free game development
+resources they provide:
+
+"Game assets provided courtesy of Kenney.nl (https://kenney.nl) and
+PixelBuddha (https://pixelbuddha.net) under CC0 1.0 Universal license."
+
+================================================================================
+                    SOURCE VERIFICATION AND REFERENCES
+================================================================================
+
+Asset sources were verified against the following research and audit documents:
+
+1. Research Document: docs/research/godot-snake-implementations-2026-01-04.md
+   - Comprehensive asset source research
+   - License verification
+   - Direct URL confirmation
+
+2. Security Audit: docs/security/SECURITY_AUDIT_2026-01-04.md
+   - Asset license compliance validation
+   - Attribution requirements review
+   - Legal compliance verification
+
+All assets were confirmed to be from the claimed sources with the stated
+licenses at the time of project creation (2026-01-04).
+
+================================================================================
+                    RECOMMENDED ATTRIBUTION FORMAT
+================================================================================
+
+If you wish to provide attribution for the assets used in this project, the
+following format is recommended for inclusion in your documentation or credits
+screen:
+
+"Snake Game uses the following CC0-licensed assets:
+- Game sprites from Kenney.nl Pixel Platformer (https://kenney.nl)
+- Retro pixel font 'Dogica' from PixelBuddha (https://pixelbuddha.net)
+
+All assets used under CC0 1.0 Universal (Public Domain) license."
+
+This attribution is optional but appreciated by the asset creators and helps
+others discover these excellent free game development resources.
+
+================================================================================
+                          CONTACT AND UPDATES
+================================================================================
+
+For questions regarding asset licensing or to report issues with this credits
+document, please refer to the project's issue tracker or contact the project
+maintainers through appropriate channels.
+
+This credits document was generated as part of the Snake Game release
+preparation to ensure complete asset attribution compliance. The project
+follows best practices for open-source game development asset management.
+
+================================================================================
+                              DOCUMENT INFO
+================================================================================
+
+Document Version: 1.0
+Created: 2026-01-04
+Last Updated: 2026-01-04
+Purpose: Asset attribution and license compliance documentation
+Project: Snake Game Clone (Godot 4.5.1)
+
+================================================================================
