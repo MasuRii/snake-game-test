@@ -29,6 +29,7 @@ This project was created entirely by an agentic team of AI specialists working t
 | DevOps | gemini-3-pro-high | Export pipeline, deployment configuration |
 | Docs | minimax-m2.1-free | README.md, CREDITS.txt, technical documentation |
 | Git | minimax-m2.1-free | Version control, GitHub repository initialization |
+| Ask | minimax-m2.1-free | Technical Q&A and explanations |
 
 ### Session Information
 
