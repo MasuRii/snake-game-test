@@ -16,18 +16,19 @@ This project was created entirely by an agentic team of AI specialists working t
 
 | Agent | Model | Tasks Completed |
 | ------ | ------ | --------------- |
-| Orchestrator | glm-4.7 | Coordinated all tasks, delegated to specialists |
-| Product | minimax-m2.1 | Product specification, requirements, user stories |
-| Researcher | minimax-m2.1 | Godot research, asset sources, best practices |
-| Architect | minimax-m2.1 | System architecture, scene structure, class hierarchy |
-| UI | minimax-m2.1 | UI design, visual layout, accessibility |
-| Code | minimax-m2.1 | Core implementation, game systems, Windows build |
-| Test | minimax-m2.1 | Test suite, build verification |
+| Orchestrator | glm-4.7-free | Coordinated all tasks, delegated to specialists |
+| Product | minimax-m2.1-free | Product specification, requirements, user stories |
+| Researcher | minimax-m2.1-free | Godot research, asset sources, best practices |
+| Architect | minimax-m2.1-free | System architecture, scene structure, class hierarchy |
+| UI | gemini-3-pro-high | UI design, visual layout, accessibility |
+| Code | gemini-3-flash | Core implementation, game systems, Windows build |
+| Test | gemini-3-flash | Test suite, build verification |
 | Debug | gemini-3-flash | Bug fixing, gameplay balance |
 | Refactor | gemini-3-pro-high | Code optimization, structure improvements |
 | Security | gemini-3-pro-high | Security audit, asset license validation |
 | DevOps | gemini-3-pro-high | Export pipeline, deployment configuration |
-| Docs | minimax-m2.1 | README.md, CREDITS.txt, technical documentation |
+| Docs | minimax-m2.1-free | README.md, CREDITS.txt, technical documentation |
+| Git | minimax-m2.1-free | Version control, GitHub repository initialization |
 
 ### Session Information
 
